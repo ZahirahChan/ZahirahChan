@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Zahirah 👋👩‍💻
 - 🔭 I’m currently working on finishing my degree
 - 🌱 I’m currently learning Introduction to Interactive Multimedia
 <!--
