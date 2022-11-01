@@ -1,5 +1,5 @@
 ### Hi, I'm Zahirah 👋👩‍💻
-- 🔬 I’m currently learning Applied Microbiology
+- 🔬 I’m currently pursuing my degree in Applied Microbiology
 - 🔬 I'm taking specialisation track in Industrial Microbiology
 <!--
 **ZahirahChan/ZahirahChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
