@@ -1,6 +1,5 @@
 ### Hi, I'm Zahirah 👋👩‍💻
-- 🔭 I’m currently working on finishing my degree
-- 🌱 I’m currently learning Introduction to Interactive Multimedia
+- 🔭 I’m currently learning Applied Microbiology
 <!--
 **ZahirahChan/ZahirahChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
